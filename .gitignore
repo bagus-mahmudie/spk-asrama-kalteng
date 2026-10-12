@@ -37,3 +37,6 @@
 /.idea/
 /.vscode/
 /include/conn.php
+
+# Reviewed import schema; private SQL exports remain ignored
+!/database/db_saw.sql
