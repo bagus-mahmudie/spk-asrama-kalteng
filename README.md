@@ -4,6 +4,10 @@ Decision support system for dormitory selection using the Simple Additive Weight
 
 **Status:** Local development; a public demo is not yet available.
 
+## Preview
+
+[![SPK Asrama Kalteng — application preview](docs/screenshots/project-preview.png)](docs/screenshots/project-preview.png)
+
 ## Features
 
 - Management of alternatives and criteria weights
